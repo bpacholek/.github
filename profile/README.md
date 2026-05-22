@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="180" align="center">
-  <img src="media/avatar-r.png" width="160" alt="Bartosz Pachołek"/>
+  <img src="media/avatar.png" width="160" alt="Bartosz Pachołek"/>
 </td>
 <td>
 
@@ -28,7 +28,7 @@ I'm an **open‑source developer from Poland**, passionate about creating practi
 <table>
 <tr>
 <td width="120" align="center">
-  <img src="media/logo-r.png" width="100" alt="IDCT"/>
+  <img src="media/logo.png" width="100" alt="IDCT"/>
 </td>
 <td>
 
